@@ -1,2 +1,2 @@
-# Blog_API
+# Blog-API
 Project: Blog API 
